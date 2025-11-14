@@ -30,7 +30,7 @@ Full-stack developer building scalable web and mobile applications. Currently ex
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WhoamiI00&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/WhoamiI00/WhoamiI00/output/github-contribution-grid-snake-dark.svg)
+<!-- ![GitHub Contribution Snake](https://raw.githubusercontent.com/WhoamiI00/WhoamiI00/output/github-contribution-grid-snake-dark.svg) -->
 
 #### 📫 Contact
 
