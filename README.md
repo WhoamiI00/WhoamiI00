@@ -1,4 +1,4 @@
-### Hey, I'm Kurumi 👋
+### Hey, I'm Ankit 👋
 
 Full-stack developer building scalable web and mobile applications. Currently exploring AI/ML integration and cloud architecture.
 
