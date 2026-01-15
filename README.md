@@ -38,11 +38,11 @@ Currently exploring AI/ML integration and cloud architecture.
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=WhoamiI00&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=WhoamiI00&show_icons=true&theme=github_dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=WhoamiI00&show_icons=true&hide_border=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=WhoamiI00&show_icons=true&hide_border=true"
       alt="GitHub Stats"
     />
   </picture>
