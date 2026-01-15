@@ -38,4 +38,9 @@ Full-stack developer building scalable web and mobile applications. Currently ex
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/WhoamiI00/WhoamiI00/output/github-contribution-grid-snake-dark.svg)
+
+
 *Open source contributor • Performance optimization enthusiast • Always learning*
