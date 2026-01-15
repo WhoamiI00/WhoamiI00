@@ -1,6 +1,11 @@
 ### Hey, I'm Ankit 👋
 
-Full-stack developer building scalable web and mobile applications. Currently exploring AI/ML integration and cloud architecture.
+> Building things that scale. Learning things that matter.
+
+Full-stack developer building scalable web and mobile applications.  
+Currently exploring AI/ML integration and cloud architecture.
+
+---
 
 #### 🛠️ Tech Stack
 
@@ -15,22 +20,59 @@ Full-stack developer building scalable web and mobile applications. Currently ex
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+---
+
 #### 📌 Highlights
 
-- 🐾 Built **PawGle**: Pet recognition platform with 87% accuracy using ArcFace
-- 🎥 Created **NeoCast**: Video platform with AI transcript generation
-- 📱 Developed **NeoVids**: Cross-platform mobile app with React Native
-- ☁️ Google Cloud Skills Boost Specialist (57 badges, 74k+ XP)
-- 🤖 NVIDIA DLI: Building LLM Applications certified
-- 🏆 Competitive programmer (ratings: 1400-1900+)
+- 🐾 Built **PawGle** — pet recognition platform with **87% accuracy** using ArcFace  
+- 🎥 Created **NeoCast** — video platform with AI transcript generation  
+- 📱 Developed **NeoVids** — cross-platform mobile app with React Native  
+- ☁️ Google Cloud Skills Boost Specialist (**57 badges, 74k+ XP**)  
+- 🤖 NVIDIA DLI — *Building LLM Applications* certified  
+- 🏆 Competitive programmer (**ratings: 1400–1900+**)
+
+---
 
 #### 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WhoamiI00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=WhoamiI00&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=WhoamiI00&show_icons=true&hide_border=true&count_private=true"
+      alt="GitHub Stats"
+    />
+  </picture>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WhoamiI00&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoamiI00&layout=compact&theme=github_dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoamiI00&layout=compact&hide_border=true"
+      alt="Top Languages"
+    />
+  </picture>
+</p>
 
-<!-- ![GitHub Contribution Snake](https://raw.githubusercontent.com/WhoamiI00/WhoamiI00/output/github-contribution-grid-snake-dark.svg) -->
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/WhoamiI00/WhoamiI00/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+  />
+</p>
+
+---
 
 #### 📫 Contact
 
@@ -38,9 +80,4 @@ Full-stack developer building scalable web and mobile applications. Currently ex
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/WhoamiI00/WhoamiI00/output/github-contribution-grid-snake-dark.svg)
-
-
-*Open source contributor • Performance optimization enthusiast • Always learning*
+*Open-source contributor • Performance optimization enthusiast • Always learning*
