@@ -33,35 +33,6 @@ Currently exploring AI/ML integration and cloud architecture.
 
 ---
 
-#### 📊 Stats
-
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=WhoamiI00&show_icons=true&theme=github_dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=WhoamiI00&show_icons=true&hide_border=true"
-      alt="GitHub Stats"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoamiI00&layout=compact&theme=github_dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoamiI00&layout=compact&hide_border=true"
-      alt="Top Languages"
-    />
-  </picture>
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -76,7 +47,7 @@ Currently exploring AI/ML integration and cloud architecture.
 
 #### 📫 Contact
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ankit098.com123@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ankitisop12@gmail.com)
 
 ---
 
